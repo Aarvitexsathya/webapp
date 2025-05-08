@@ -51,6 +51,8 @@
                 <sonar.host.url>
                   http://54.81.246.193:9000
                 </sonar.host.url>
+                <java.version>17</java.version>
+
 </properties>
         </profile>
    </profiles>
